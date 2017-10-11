@@ -1,0 +1,13 @@
+.navbar{
+    justify-content:space-between;
+    flex-flow: row;
+}
+
+.navbar-brand{
+    color: white;
+}
+
+.navbar-toggler{
+    color: blue;
+    background-color: white;
+}
